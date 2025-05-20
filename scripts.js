@@ -55,7 +55,7 @@ const bookmarks = [
     "bookmarks": [
       {"id": "3maZI96JVrvj0DXb", "label": "❯ ~/youtube", "url": "https://www.youtube.com/"},
       {"id": "enqs2WzcFETlCD0P", "label": "❯ ~/reddit", "url": "https://www.reddit.com/"},
-      {"id": "bW09UMFDbxlaaUyj", "label": "❯ ~/whatsapp", "url": "https://whatsapp.com/"},
+      {"id": "bW09UMFDbxlaaUyj", "label": "❯ ~/whatsapp", "url": "https://web.whatsapp.com/"},
       {"id": "j5VdsTuEMMx7WZza", "label": "❯ ~/instagram", "url": "https://instagram.com/"}
     ]
   },
