@@ -55,8 +55,9 @@ const bookmarks = [
     "bookmarks": [
       {"id": "3maZI96JVrvj0DXb", "label": "❯ ~/youtube", "url": "https://www.youtube.com/"},
       {"id": "enqs2WzcFETlCD0P", "label": "❯ ~/reddit", "url": "https://www.reddit.com/"},
-      {"id": "bW09UMFDbxlaaUyj", "label": "❯ ~/whatsapp", "url": "https://web.whatsapp.com/"},
-      {"id": "j5VdsTuEMMx7WZza", "label": "❯ ~/instagram", "url": "https://instagram.com/"}
+      {"id": "bW09UMFDbxlaaUyj", "label": "❯ ~/whatsapp", "url": "https://whatsapp.com/"},
+      {"id": "j5VdsTuEMMx7WZza", "label": "❯ ~/instagram", "url": "https://instagram.com/"},
+      {"id": "pQwRtYv2XsLmnK9B", "label": "❯ ~/tumblr", "url": "https://www.tumblr.com/"}
     ]
   },
   {
@@ -66,7 +67,8 @@ const bookmarks = [
       {"id": "9jwDLKM5BaKbQTCx", "label": "❯ ~/chatgpt", "url": "https://chatgpt.com"},
       {"id": "FqYW54LYO828Y0pR", "label": "❯ ~/grok", "url": "https://grok.com/?referrer=website"},
       {"id": "mNpQrStUvWxYz3Ab", "label": "❯ ~/github", "url": "https://github.com/"},
-      {"id": "k8LmnP9QwRtYv2Xs", "label": "❯ ~/football-stream", "url": "http://www.streamsgate.tv/"}
+      {"id": "k8LmnP9QwRtYv2Xs", "label": "❯ ~/football-stream", "url": "http://www.streamsgate.tv/"},
+      {"id": "vWxYz3AbNpQrStUm", "label": "❯ ~/spotify", "url": "https://open.spotify.com/"}
     ]
   }
 ]
